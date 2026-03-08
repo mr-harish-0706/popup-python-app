@@ -118,7 +118,11 @@ Click End Task
 
 After ending the process, the popups will stop.
 
----
+
+
+### [ ⬇️ Download here](https://github.com/mr-harish-0706/popup-python-app/releases/latest)
+
+
 
 ## 📜 License
 
