@@ -1,4 +1,4 @@
-# 😂 You Are An Idiot – Keyboard Troll script
+# 😂 You Are An Idiot – Keyboard Troll Script
 
 A **simple Python prank program** that opens a popup window and plays a random sound **every time a key is pressed**.
 
